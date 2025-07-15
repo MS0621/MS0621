@@ -50,8 +50,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 ### 📫 Contact
 
-- ✉️ Email: minseop0621@gmail.com  
-- 🌐 Portfolio: [Notion/Blog/Website 링크 삽입 가능]  
+- ✉️ Email: devminseop@gmail.com  
 - 📍 Based in Korea
 
 ---
