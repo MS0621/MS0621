@@ -21,6 +21,26 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 - **Programming**: Python, C++, MATLAB, Arduino
 - **Tools**: ROS2, OpenCV, PyTorch, TensorFlow, STM32, Google Colab, Git
 - **Specialties**: Biomedical Signal Processing, Embedded Systems, Autonomous Robots, LSTM/AI modeling
+- 
+### Language  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Library / Framework  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-FF9900?style=for-the-badge&logo=edge-impulse&logoColor=white)
+
+### Tools / Platform  
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Jetson Nano](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
 
 ---
 
@@ -28,32 +48,32 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 - 🏋️ **Weight Training Assistant**  
   웨어러블 센서를 이용해 PPG/ACC 신호를 수집하고, LSTM 모델로 회복 시점 및 RPE를 예측하는 개인 맞춤형 트레이닝 보조 시스템.  
-  [🔗 레포 바로가기](https://github.com/MS0621/Weight_Training_Assistant)
+  [🔗 More about Project](https://github.com/MS0621/Weight_Training_Assistant)
 
 - 🌡️ **Thermometer**  
   STM32 기반의 체온 측정 시스템  
-  [🔗 레포 바로가기](https://github.com/MS0621/Thermometer)
+  [🔗 More about Project](https://github.com/MS0621/Thermometer)
 
 - 🏥 **Nursing Assistance Robot**  
   TurtleBot4와 ROS2 기반 병원 보조 로봇. 약 전달, 병실 이동, 환자 인식 및 바이탈 체크까지 수행하는 자율 서비스 로봇 시스템.  
-  [🔗 레포 바로가기](https://github.com/MS0621/nursing_assistance_robot)
+  [🔗 More about Project](https://github.com/MS0621/nursing_assistance_robot)
 
 - 🏎️ **TurtleBot3 AutoRace**  
   ROS2와 OpenCV 기반의 자율주행 경로 인식 프로젝트. 차선 추종, 곡선 감속, 장애물 회피 등 기본적인 주행 알고리즘을 구현.  
-  [🔗 레포 바로가기](https://github.com/MS0621/turtlebot3_autorace)
+  [🔗 More about Project](https://github.com/MS0621/turtlebot3_autorace)
 
 - 💊 **Rokey Pharmacy**  
   Whisper 및 GPT-4 기반 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 여부 판단, ROS2 메시지 전달까지 수행. 협동로봇과 통신을 통해 패키징까지 수행
   
-  [🔗 레포 바로가기](https://github.com/MS0621/Rokey_Pharmacy)
+  [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
 
 - 🤖 **Daily Cobot**  
   협동로봇(M0609) 기반의 일상 작업 자동화 프로젝트. 가정 내 반복 작업을 로봇이 수행하도록 제어 알고리즘 개발.  
-  [🔗 레포 바로가기](https://github.com/MS0621/Daily_Cobot)
+  [🔗 More about Project](https://github.com/MS0621/Daily_Cobot)
 
 - 🧠 **Biomedical Signal Processing**  
   MATLAB 기반의 생체신호 처리 모음. ECG, EEG, PPG 신호를 분석하고 QRS 검출, HRV 분석, 뇌파 스펙트럼 시각화 등을 포함.  
-  [🔗 레포 바로가기](https://github.com/MS0621/Biomedical_Signal_Processing)
+  [🔗 More about Project](https://github.com/MS0621/Biomedical_Signal_Processing)
 
 
 [📂 More Projects Here](https://github.com/MS0621)
