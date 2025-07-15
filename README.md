@@ -59,9 +59,6 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   MATLAB 기반의 생체신호 처리 모음. ECG, EEG, PPG 신호를 분석하고 QRS 검출, HRV 분석, 뇌파 스펙트럼 시각화 등을 포함.  
   [🔗 More about Project](https://github.com/MS0621/Biomedical_Signal_Processing)
 
-
-[📂 More Projects Here](https://github.com/MS0621)
-
 ---
 
 ### 📊 GitHub Stats
