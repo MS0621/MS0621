@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-### 🧠 Biomedical Robotics Engineer
+### Biomedical Robotics Engineer
 
 I'm passionate about combining biomedical engineering with intelligent robotic systems to build solutions that assist people in healthcare, rehabilitation, and beyond.
 
