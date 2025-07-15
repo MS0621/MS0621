@@ -19,8 +19,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 ### 💡 Skills
 
 - **Programming**: Python, C++, MATLAB, Arduino
-- **Tools**: ROS2, OpenCV, PyTorch, TensorFlow, Google Colab, Git
-- **Hardware**: Feather M0 WiFi, MAX30102 (PPG), MPU9250 (IMU), Dynamixel, TurtleBot3
+- **Tools**: ROS2, OpenCV, PyTorch, TensorFlow, STM32, Google Colab, Git
 - **Specialties**: Biomedical Signal Processing, Embedded Systems, Autonomous Robots, LSTM/AI modeling
 
 ---
