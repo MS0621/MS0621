@@ -1,10 +1,3 @@
-###  Biomedical Robotics Engineer
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS0621&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS0621&theme=dark)](https://github.com/MS0621/github-readme-stats)
-
-
 ### 👋 About Me
 
 ### 🧠 Biomedical Robotics Engineer
