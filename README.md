@@ -62,7 +62,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 - 💊 **Rokey Pharmacy**  
   AI voice-based interface system using Whisper and GPT-4 for medicine recommendation, prescription judgment, and robot control.
   
-  Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 판단 및 협동로봇 제어 수행.
+  Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 판단 및 협동로봇를 이용한 패키징 작업 수행.
   
   [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
 
