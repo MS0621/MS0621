@@ -57,6 +57,15 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
   [🔗 More about Project](https://github.com/MS0621/nursing_assistance_robot)
   
+
+  
+- 💊 **Rokey Pharmacy**  
+  AI voice-based interface system using Whisper and GPT-4 for medicine recommendation, prescription judgment, and robot control.
+  
+  Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 판단 및 협동로봇 제어 수행.
+  
+  [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
+
   
 
 - 🏎️ **TurtleBot3 AutoRace**
@@ -65,16 +74,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   ROS2와 OpenCV 기반의 자율주행 경로 인식 프로젝트. 차선 추종, 곡선 감속, 장애물 회피 등 기본적인 주행 알고리즘을 구현.
   
   [🔗 More about Project](https://github.com/MS0621/turtlebot3_autorace)
-  
-  
 
-- 💊 **Rokey Pharmacy**  
-  AI voice-based interface system using Whisper and GPT-4 for medicine recommendation, prescription judgment, and robot control.
-  
-  Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 판단 및 협동로봇 제어 수행.
-  
-  [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
-  
   
 
 - 🤖 **Daily Cobot**  
