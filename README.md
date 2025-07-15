@@ -43,6 +43,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 - 🌡️ **Thermometer**
   STM32-based real-time body temperature monitoring system with embedded development.
+  
   STM32 기반의 체온 측정 임베디드 시스템.
   
   [🔗 More about Project](https://github.com/MS0621/Thermometer)
