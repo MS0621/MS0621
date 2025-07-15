@@ -19,7 +19,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 ### 💡 Skills
 
 - #### Language  
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 - #### Library / Framework  
  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![ROS2 Humble](https://img.shields.io/badge/ROS2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
