@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS0621&theme=dark)](https://github.com/MS0621/github-readme-stats)
 
 
-### 👋 Hi there, I'm Minseop Jeong
+### 👋 About Me
 
 ### 🧠 Biomedical Robotics Engineer
 
@@ -17,8 +17,10 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 - 🎓 **Soonchunhyang University**  
   *B.S. in Biomedical Mechatronics Engineering*  
-  *2019 – 2025 (Expected)*
-
+  *2019 – 2025*
+- 🎓 **Doosan Robotics Bootcamp**  
+  *2025.01 – 2025.07*
+  
 ---
 
 ### 💡 Skills
