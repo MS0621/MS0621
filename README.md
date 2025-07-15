@@ -26,8 +26,6 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 ### 🚀 Projects
 
-### 🚀 Projects
-
 - 🏋️ **Weight Training Assistant**  
   웨어러블 센서를 이용해 PPG/ACC 신호를 수집하고, LSTM 모델로 회복 시점 및 RPE를 예측하는 개인 맞춤형 트레이닝 보조 시스템.  
   [🔗 레포 바로가기](https://github.com/MS0621/Weight_Training_Assistant)
