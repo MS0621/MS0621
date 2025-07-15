@@ -36,31 +36,37 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   Personalized training assistant system using wearable PPG/ACC sensors and LSTM to predict optimal recovery time and RPE.
   웨어러블 센서를 이용해 PPG/ACC 신호를 수집하고, LSTM 모델로 회복 시점 및 RPE를 예측하는 개인 맞춤형 트레이닝 보조 시스템.  
   [🔗 More about Project](https://github.com/MS0621/Weight_Training_Assistant)
+  
 
 - 🌡️ **Thermometer**
   STM32-based real-time body temperature monitoring system with embedded development.
   STM32 기반의 체온 측정 임베디드 시스템. 
   [🔗 More about Project](https://github.com/MS0621/Thermometer)
+  
 
 - 🏥 **Nursing Assistance Robot**
   Autonomous hospital service robot using TurtleBot4 and ROS2 for delivery, navigation, patient recognition, and vital sign checks.
   TurtleBot4와 ROS2 기반 병원 보조 로봇. 약 전달, 병실 이동, 환자 인식 및 바이탈 체크까지 수행하는 자율 서비스 로봇 시스템.  
   [🔗 More about Project](https://github.com/MS0621/nursing_assistance_robot)
+  
 
 - 🏎️ **TurtleBot3 AutoRace**
   Autonomous driving system using ROS2 and OpenCV for lane detection, curve deceleration, and obstacle avoidance.  
   ROS2와 OpenCV 기반의 자율주행 경로 인식 프로젝트. 차선 추종, 곡선 감속, 장애물 회피 등 기본적인 주행 알고리즘을 구현.  
   [🔗 More about Project](https://github.com/MS0621/turtlebot3_autorace)
+  
 
 - 💊 **Rokey Pharmacy**  
   AI voice-based interface system using Whisper and GPT-4 for medicine recommendation, prescription judgment, and robot control.
   Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 판단 및 협동로봇 제어 수행.
   [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
+  
 
 - 🤖 **Daily Cobot**  
   Automation of daily household tasks using a collaborative robot (M0609) with custom control algorithms.
   협동로봇(M0609)을 이용해 일상 작업을 자동화하는 제어 알고리즘 개발 프로젝트.
   [🔗 More about Project](https://github.com/MS0621/Daily_Cobot)
+  
 
 - 🧠 **Biomedical Signal Processing**  
   Collection of biomedical signal analysis (ECG, EEG, PPG) using MATLAB. Includes QRS detection, HRV, and EEG spectral visualization.
