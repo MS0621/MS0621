@@ -26,8 +26,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 - #### Tools / Platform  
  ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-- **Specialties**: Biomedical Signal Processing, Embedded Systems, Autonomous Robots, LSTM/AI modeling
-
+ 
 ---
 
 ### 🚀 Projects
@@ -49,8 +48,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   [🔗 More about Project](https://github.com/MS0621/turtlebot3_autorace)
 
 - 💊 **Rokey Pharmacy**  
-  Whisper 및 GPT-4 기반 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 여부 판단, ROS2 메시지 전달까지 수행. 협동로봇과 통신을 통해 패키징까지 수행
-  
+  Whisper 및 GPT-4 기반 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 여부 판단, 협동로봇과 통신을 통해 패키징 수행
   [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
 
 - 🤖 **Daily Cobot**  
