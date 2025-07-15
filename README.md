@@ -12,7 +12,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   *B.S. in Biomedical Mechatronics Engineering*  
   *2019 – 2025*
   
-- 🎓 **Doosan Robotics ROKEY Boot Camp**  
+- 🦾 **Doosan Robotics ROKEY Boot Camp**  
   *2025.01 – 2025.07*
   
 ---
