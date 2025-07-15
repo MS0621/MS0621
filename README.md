@@ -39,12 +39,14 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
   [🔗 More about Project](https://github.com/MS0621/Weight_Training_Assistant)
   
+  
 
 - 🌡️ **Thermometer**
   STM32-based real-time body temperature monitoring system with embedded development.
   STM32 기반의 체온 측정 임베디드 시스템.
   
   [🔗 More about Project](https://github.com/MS0621/Thermometer)
+  
   
 
 - 🏥 **Nursing Assistance Robot**
@@ -54,6 +56,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
   [🔗 More about Project](https://github.com/MS0621/nursing_assistance_robot)
   
+  
 
 - 🏎️ **TurtleBot3 AutoRace**
   Autonomous driving system using ROS2 and OpenCV for lane detection, curve deceleration, and obstacle avoidance.
@@ -61,6 +64,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   ROS2와 OpenCV 기반의 자율주행 경로 인식 프로젝트. 차선 추종, 곡선 감속, 장애물 회피 등 기본적인 주행 알고리즘을 구현.
   
   [🔗 More about Project](https://github.com/MS0621/turtlebot3_autorace)
+  
   
 
 - 💊 **Rokey Pharmacy**  
@@ -70,6 +74,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
   [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
   
+  
 
 - 🤖 **Daily Cobot**  
   Automation of daily household tasks using a collaborative robot (M0609) with custom control algorithms.
@@ -77,6 +82,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   협동로봇(M0609)을 이용해 일상 작업을 자동화하는 제어 알고리즘 개발 프로젝트.
   
   [🔗 More about Project](https://github.com/MS0621/Daily_Cobot)
+  
   
 
 - 🧠 **Biomedical Signal Processing**  
