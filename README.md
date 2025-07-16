@@ -33,9 +33,9 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 ### 🚀 Projects
 
 - 🏋️ **Weight Training Assistant**
-  Personalized training assistant system using wearable device and LSTM to predict optimal recovery time and RPE.
+  Wearable device development and acquisition of PPG/ACC signals for heart rate estimation, with an LSTM model predicting recovery timing in a personalized training assistant system.
   
-  웨어러블 디바이스 제작 및 이용해 PPG/ACC 신호를 수집하고, LSTM 모델로 회복 시점 및 RPE를 예측하는 개인 맞춤형 트레이닝 보조 시스템.  
+  웨어러블 디바이스 제작 및 PPG/ACC 신호를 수집하여 심박수 추정, LSTM 모델로 회복 시점을 예측하는 개인 맞춤형 트레이닝 보조 시스템.  
 
   [🔗 More about Project](https://github.com/MS0621/Weight_Training_Assistant)
   
