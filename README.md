@@ -40,6 +40,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
   [🔗 More about Project](https://github.com/MS0621/Weight_Training_Assistant)
   
+
   
 
 - 🌡️ **Thermometer**
@@ -50,6 +51,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
   [🔗 More about Project](https://github.com/MS0621/Thermometer)
   
+
   
 
 - 🏥 **Nursing Assistant Robot**
@@ -61,6 +63,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   [🔗 More about Project](https://github.com/MS0621/nursing_assistance_robot)
   
 
+
   
 - 💊 **Rokey Pharmacy**
   
@@ -69,6 +72,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 판단 및 협동로봇를 이용한 패키징 작업 수행.
   
   [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
+
 
   
 
@@ -82,6 +86,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
   
 
+
 - 🤖 **Daily Cobot**
   
   Automation of daily household tasks using a collaborative robot (M0609) with custom control algorithms.
@@ -89,6 +94,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   협동로봇(M0609)을 이용해 일상 작업을 자동화하는 제어 알고리즘 개발 프로젝트.
   
   [🔗 More about Project](https://github.com/MS0621/Daily_Cobot)
+
   
   
 
@@ -99,6 +105,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   MATLAB 기반의 생체신호 처리 모음. ECG, EEG, PPG 신호 분석 및 QRS 검출, HRV 분석, 뇌파 스펙트럼 시각화 포함.
   
   [🔗 More about Project](https://github.com/MS0621/Biomedical_Signal_Processing)
+  
 
 ---
 
