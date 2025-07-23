@@ -33,6 +33,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 ### 🚀 Projects
 
 - 🏋️ **Weight Training Assistant**
+  
   Wearable device development and acquisition of PPG/ACC signals for heart rate estimation, with an LSTM model predicting recovery timing in a personalized training assistant system.
   
   웨어러블 디바이스 제작 및 PPG/ACC 신호를 수집하여 심박수 추정, LSTM 모델로 회복 시점을 예측하는 개인 맞춤형 트레이닝 보조 시스템.  
@@ -42,6 +43,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
 
 - 🌡️ **Thermometer**
+
   STM32-based real-time body temperature monitoring system with embedded development.
   
   STM32 기반의 체온 측정 임베디드 시스템.
@@ -60,7 +62,8 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
 
   
-- 💊 **Rokey Pharmacy**  
+- 💊 **Rokey Pharmacy**
+  
   AI voice-based interface system using Whisper and GPT-4 for medicine recommendation, prescription judgment, and robot control.
   
   Whisper와 GPT-4 기반의 AI 음성 인터페이스 시스템. 음성 명령을 인식하고 약 추천, 처방 판단 및 협동로봇를 이용한 패키징 작업 수행.
@@ -70,6 +73,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
 
 - 🏎️ **TurtleBot3 AutoRace**
+  
   Autonomous driving system using ROS2 and OpenCV for lane detection, curve deceleration, and obstacle avoidance.
   
   ROS2와 OpenCV 기반의 자율주행 경로 인식 프로젝트. 차선 추종, 곡선 감속, 장애물 회피 등 기본적인 주행 알고리즘을 구현.
@@ -78,7 +82,8 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
   
 
-- 🤖 **Daily Cobot**  
+- 🤖 **Daily Cobot**
+  
   Automation of daily household tasks using a collaborative robot (M0609) with custom control algorithms.
   
   협동로봇(M0609)을 이용해 일상 작업을 자동화하는 제어 알고리즘 개발 프로젝트.
@@ -87,7 +92,8 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
   
 
-- 🧠 **Biomedical Signal Processing**  
+- 🧠 **Biomedical Signal Processing**
+   
   Collection of biomedical signal analysis (ECG, EEG, PPG) using MATLAB. Includes QRS detection, HRV, and EEG spectral visualization.
   
   MATLAB 기반의 생체신호 처리 모음. ECG, EEG, PPG 신호 분석 및 QRS 검출, HRV 분석, 뇌파 스펙트럼 시각화 포함.
