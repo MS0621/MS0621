@@ -6,18 +6,18 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 ---
 
-### 🎓 Education
+### Education
 
-- 🎓 **Soonchunhyang University**  
+- **Soonchunhyang University**  
   *B.S. in Biomedical Mechatronics Engineering*  
   *2019 – 2025*
   
-- 🦾 **Doosan Robotics ROKEY Boot Camp**  
+- **Doosan Robotics ROKEY Boot Camp**  
   *2025.01 – 2025.07*
   
 ---
 
-### 💡 Skills
+### Skills
 
 - #### Language  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)  
@@ -30,9 +30,9 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
  
 ---
 
-### 🚀 Projects
+### Main Projects
 
-- 🏋️ **Weight Training Assistant**
+- **Weight Training Assistant**
   
   Wearable device development and acquisition of PPG/ACC signals for heart rate estimation, with an LSTM model predicting recovery timing in a personalized training assistant system.
   
@@ -43,7 +43,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
   
 
-- 🌡️ **Thermometer**
+- **Thermometer**
 
   STM32-based real-time body temperature monitoring system with embedded development.
   
@@ -54,7 +54,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
   
 
-- 🏥 **Nursing Assistant Robot**
+- **Nursing Assistant Robot**
   
   Autonomous hospital service robot using TurtleBot4 and ROS2 for delivery, navigation, patient recognition, and vital sign checks.
   
@@ -65,7 +65,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 
   
-- 💊 **Rokey Pharmacy**
+- **Rokey Pharmacy**
   
   AI voice-based interface system using Whisper and GPT-4 for medicine recommendation, prescription judgment, and robot control.
   
@@ -74,9 +74,11 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   [🔗 More about Project](https://github.com/MS0621/Rokey_Pharmacy)
 
 
-  
+---  
 
-- 🏎️ **TurtleBot3 AutoRace**
+### Subprojects
+
+- **TurtleBot3 AutoRace**
   
   Autonomous driving system using ROS2 and OpenCV for lane detection, curve deceleration, and obstacle avoidance.
   
@@ -87,7 +89,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
 
 
-- 🤖 **Daily Cobot**
+- **Daily Cobot**
   
   Automation of daily household tasks using a collaborative robot (M0609) with custom control algorithms.
   
@@ -98,7 +100,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
   
 
-- 🧠 **Biomedical Signal Processing**
+- **Biomedical Signal Processing**
    
   Collection of biomedical signal analysis (ECG, EEG, PPG) using MATLAB. Includes QRS detection, HRV, and EEG spectral visualization.
   
@@ -109,7 +111,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MS0621&show_icons=true&theme=dark)
 
@@ -117,26 +119,10 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
 
 ---
 
-### 📫 Contact
+### Contact
 
 - ✉️ Email: devminseop@gmail.com  
-- 📍 Based in Korea
+
 
 ---
 
-
-
-<!--
-**MS0621/MS0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
