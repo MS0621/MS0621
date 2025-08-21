@@ -37,7 +37,7 @@ I'm passionate about combining biomedical engineering with intelligent robotic s
   
   Autonomous hospital service robot using TurtleBot4 and ROS2 for delivery, navigation, patient recognition, and vital sign checks.
   
-  TurtleBot4와 ROS2 기반 병원 보조 로봇. 약 전달, 병실 이동, 환자 인식 및 바이탈 체크까지 수행하는 자율 서비스 로봇 시스템.
+  TurtleBot4와 ROS2 기반 병원 보조 로봇. 약 전달, 자율주행, 환자 인식 및 바이탈 체크까지 수행하는 자율 서비스 로봇 시스템.
   
   [🔗 More about Project](https://github.com/MS0621/nursing_assistance_robot)
 
